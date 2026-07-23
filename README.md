@@ -102,14 +102,11 @@ Minimal UI with modern responsive design.
 
 ---
 
-# 🏆 GitHub Trophy
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akshaikp007&theme=algolia&no-frame=true&margin-w=10"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaikp007&theme=github-dark&hide_border=true"/>
 </p>
-
 ---
 
 # 🌱 Currently Learning
