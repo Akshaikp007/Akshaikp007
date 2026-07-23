@@ -2,11 +2,6 @@
   <img src="banner.png" width="100%" alt="Akshai KP Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Modern+Web+Applications;React+•+Node.js+•+MongoDB;Always+Learning+Something+New" />
-</p>
-<div align="center">
-
 # 👋 Hi, I'm Akshai KP
 
 ### Full Stack MERN Developer
