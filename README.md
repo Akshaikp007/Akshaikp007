@@ -94,6 +94,12 @@ Minimal UI with modern responsive design.
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshaikp007/Akshaikp007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 # 🏆 GitHub Trophy
